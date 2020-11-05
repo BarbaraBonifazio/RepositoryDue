@@ -14,4 +14,8 @@
 
 
 	...e la mia spada!
-	-Aragorn
+	- Aragorn 
+
+	...e il mio arco!
+	- Legolas
+
